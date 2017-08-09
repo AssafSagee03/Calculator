@@ -1,0 +1,19 @@
+body {
+    background-color: burlywood;
+}
+.calculator {
+    border: solid black 1px;
+    padding: 5px;
+    border-radius: 4px;
+    width: 150px;
+}
+
+#enterNumbers {
+    text-align: right;
+    width: 80px;
+}
+
+#table {
+    width: 100px;
+    height: 100px;
+}
